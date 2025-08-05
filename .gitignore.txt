@@ -1,0 +1,9 @@
+# Flutter
+.dart_tool/
+.packages
+build/
+ios/Flutter/Flutter.framework
+pubspec.lock
+.flutter-plugins
+.idea/
+android/.gradle/
