@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "669793108376",
+    "project_id": "holisticore-eb46f",
+    "storage_bucket": "holisticore-eb46f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669793108376:android:5724003425ea53dd1eebed",
+        "android_client_info": {
+          "package_name": "com.example.holistic_core_wellness_mobileapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQDofDLbHvCJQLdwij4tCXHubTdmUsR90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
